@@ -1,6 +1,6 @@
 # 記録と出典の扱い
 
-この利用者による公開記録は、[旧監査方法論](https://github.com/lucidity3k/openai-trust-audit/blob/7bfdada27e1c8c30e0cbe6f5b1fb4d211443d5c4/METHODOLOGY.md) と [旧出典方針](https://github.com/lucidity3k/openai-trust-audit/blob/7bfdada27e1c8c30e0cbe6f5b1fb4d211443d5c4/SOURCE_POLICY.md) を引き継ぐ。
+この利用者による公開記録は、[旧監査方法論](https://github.com/lucidity3k/openai-trust-audit/blob/3101e4357192cb0e858357b84466ddd185eb305a/METHODOLOGY.md) と [旧出典方針](https://github.com/lucidity3k/openai-trust-audit/blob/3101e4357192cb0e858357b84466ddd185eb305a/SOURCE_POLICY.md) を引き継ぐ。
 
 - 元の質問、実際の回答、手続上の説明、評価を対応付ける。回答された事項は反映し、一部回答は残った範囲を示す。
 - 直接確認した未回答、説明変更、再提出要求、終了表示を、その資料が示す範囲で記録する。確認していない意図や内部処理は補わない。
