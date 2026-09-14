@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "cumulativeStatus": "PRIOR_HISTORY_RECONCILIATION_PENDING",
+  "cumulative": {
+    "A": null,
+    "B": null,
+    "C": null,
+    "D": null,
+    "E": null,
+    "F": null
+  },
+  "events": [
+    {
+      "id": "case-14968878-in-20260914-1324-JST",
+      "caseNumber": "14968878",
+      "displayedAt": "2026-09-14 13:24 JST",
+      "source": "records/2026-09-14-case-14968878.md",
+      "classification": "GMAIL_UI_OBSERVED / PUBLIC_TRANSCRIPT",
+      "delta": {
+        "A": 1
+      },
+      "existingUnresolvedItemsResolved": 0,
+      "duplicatePolicy": "Same incoming email already counted in the sent reply and local record; publication adds no additional event."
+    },
+    {
+      "id": "case-14968878-out-20260914-1426-JST",
+      "caseNumber": "14968878",
+      "displayedAt": "2026-09-14 14:26 JST",
+      "source": "records/2026-09-14-case-14968878.md",
+      "classification": "SENT_CONFIRMED_IN_GMAIL_UI",
+      "delta": {
+        "C": 1
+      },
+      "requestedProgressReplyBy": "2026-09-17 17:00 JST",
+      "deliveryOrReadReceipt": "UNCONFIRMED"
+    }
+  ]
+}
