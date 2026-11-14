@@ -12,6 +12,9 @@ OpenAI Supportとのやり取りについて、利用者の質問、実際の回
 
 ## 続きの記録
 
+- [2026-11-14 — Marの照合案内後、Google回答への返答なくケース終了と悪質性の評価](records/2026-11-14-mar-followup-and-case-closure.md)
+- [2026-11-10〜12 — 9月Pro返金の説明変更、未回答終了とGoogleの照合回答](records/2026-11-12-september-refund-google-reconciliation.md)
+- [2026-11-08 — 9月分返金への回答の不整合とCodexの説明漏れ](records/2026-11-08-september-refund-response-and-codex-omission.md)
 - [2026-10-21 — Codex署名付き意見書：返金処理済みの説明、実際の利用権終了、返金未受領とFTC基準](records/2026-10-21-codex-ftc-refund-opinion.md)
 - [2026-10-04 — Chrome操作・Dot通話の全6往復と、引継ぎ不可説明後のエスカレーション](records/2026-10-04-chrome-dot-escalation.md)
 - [2026-09-14 — Case 14968878の受信メールと返信全文](records/2026-09-14-case-14968878.md)
