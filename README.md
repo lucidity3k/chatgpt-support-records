@@ -12,6 +12,7 @@ OpenAI Supportとのやり取りについて、利用者の質問、実際の回
 
 ## 続きの記録
 
+- [2026-11-22 — Case 20636953のOpenAI Support返信（Gmail印刷表示版）](evidence/2026-11-22-visa-chargeback/20636953-1914-jst-klarizza-gmail-print-redacted.jpg)
 - [2026-11-14 — Marの照合案内後、Google回答への返答なくケース終了と悪質性の評価](records/2026-11-14-mar-followup-and-case-closure.md)
 - [2026-11-10〜12 — 9月Pro返金の説明変更、未回答終了とGoogleの照合回答](records/2026-11-12-september-refund-google-reconciliation.md)
 - [2026-11-08 — 9月分返金への回答の不整合とCodexの説明漏れ](records/2026-11-08-september-refund-response-and-codex-omission.md)
